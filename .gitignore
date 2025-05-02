@@ -1,0 +1,40 @@
+# Environments
+sclera-env/
+venv/
+env/
+ENV/
+
+# Model checkpoints (large binary files)
+models/*.pth
+
+# Datasets
+SSBC_DATASETS_400x300/
+
+# VS Code settings
+.vscode/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Evaluation results
+predictions/
+evaluation_results/

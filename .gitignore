@@ -8,7 +8,7 @@ ENV/
 models/*.pth
 
 # Datasets
-SSBC_DATASETS_400x300/
+# SSBC_DATASETS_400x300/
 
 # VS Code settings
 .vscode/

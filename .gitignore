@@ -6,6 +6,7 @@ ENV/
 
 # Model checkpoints (large binary files)
 models/*.pth
+models/*.h5
 
 # Datasets
 # SSBC_DATASETS_400x300/
@@ -36,6 +37,7 @@ wheels/
 *.egg
 
 # Evaluation results
-predictions/
-evaluation_results/
-predictions-1/
+# predictions/
+# evaluation_results/
+# evaluation_results-1/
+# predictions-1/

@@ -27,6 +27,8 @@ This application provides tools for evaluating sclera recognition models.
 Before running the application, you need to set up the proper environment:
 
 ```bash
+
+conda deactivate
 # On Windows
 sclera-env\Scripts\activate
 
